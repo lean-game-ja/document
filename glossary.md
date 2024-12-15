@@ -8,4 +8,4 @@
 
 | 英語 | 日本語 | 備考 |
 | --- | --- | --- |
-| level | ステージ | |
+| level | ステージ | cf. https://github.com/hsjoihs/nandgame-translate-ja |
